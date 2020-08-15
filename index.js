@@ -11,7 +11,7 @@ TOKEN = 'TOKEN'
 // Enter the Bot ID here.
 BOT_ID = 'BOT_ID';
 // Enter the Channel Name here.
-CHANNEL_NAME = '🤖ボットテスト';
+CHANNEL_NAME = 'CHANNEL_NAME';
 
 client.login(TOKEN);
 
